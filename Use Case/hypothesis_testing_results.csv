@@ -1,0 +1,10 @@
+Combination,Test Used,P-Value,Result
+Older Age + High BP,T-Test,0.60546,❌ Fail to Reject H₀
+Smoking + Alcohol + Obesity,T-Test,1.0,❌ Fail to Reject H₀
+High BP + Diabetes + High Cholesterol,T-Test,0.7256,❌ Fail to Reject H₀
+High BP + High Resting BP + Max HR > 150,T-Test,0.98161,❌ Fail to Reject H₀
+Smoking + High BP + High Cholesterol,T-Test,0.7256,❌ Fail to Reject H₀
+Diabetes + High Cholesterol + Max HR > 150,T-Test,0.98161,❌ Fail to Reject H₀
+Age > 70 + ECG Abnormalities,T-Test,0.02595,✅ Reject H₀
+Diabetes + Smoking + High Resting BP,T-Test,0.60546,❌ Fail to Reject H₀
+High BP + Max HR > 150 + ECG Issues,T-Test,0.98161,❌ Fail to Reject H₀
