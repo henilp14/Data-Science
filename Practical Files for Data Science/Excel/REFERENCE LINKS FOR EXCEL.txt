@@ -1,0 +1,7 @@
+Vlookup/Hlookup/Xlookup 			- https://youtu.be/tUxaY5o_hyY?si=_OhzoOApZSYkAWhh
+Pivot Table					- https://youtu.be/lCoPTPsTJ4s?si=hbDFxxwDF7rLKped
+Conditional Formating				- https://youtu.be/cEeM0U2493Q?si=c1ZHDHKNGJmEwoy3
+Full Excel Project which contains all the topics- https://youtu.be/gTK5rNhWJyA?si=XiDNZDhKPt13vPtN
+Stats 						- https://youtu.be/SxXsxCsZ59I?feature=shared
+Hypothesis testing 				- https://www.geeksforgeeks.org/understanding-hypothesis-testing/
+Probability     				- https://www.geeksforgeeks.org/probability-and-statistics/
